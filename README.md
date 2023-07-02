@@ -11,3 +11,19 @@
 * Example Output
 
     * 7caa78c7180ea52e5193d2b4c22e5e8a9e03b486
+
+## Installation guide
+
+Start cloning the repository:
+
+```sh
+ git clone https://github.com/Jairo852016/Back-end-Challenge.git
+
+```
+
+run the command
+
+```sh
+ node index.js
+
+```
